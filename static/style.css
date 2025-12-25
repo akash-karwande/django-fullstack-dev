@@ -1,0 +1,34 @@
+body {
+    background-color: rgb(100, 132, 220);
+    color: #fff;
+}
+
+h1 {
+    text-align: center;
+}
+
+.nav-list {
+    display: flex;
+    justify-content: end;
+    list-style: none;
+}
+
+.chai-item {
+    border: 1px solid beige;
+    margin: 5px;
+    padding: 10px;
+    text-align: center;
+}
+
+.chai-list {
+    display: flex;
+    justify-content: center;
+}
+
+.chai-item img {
+    width: 300px;
+}
+
+.nav-list li {
+    padding: 0 20px;
+}
